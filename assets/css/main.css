@@ -155,7 +155,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
+		background-image: radial-gradient(circle, #ffd300, #ffb600, #ff9900, #ff7900, #fe5718, #fb481d, #f83522, #f51c26, #f72420, #f92b19, #fb3210, #fd3802);
 		color: #000000;
 	}
 
